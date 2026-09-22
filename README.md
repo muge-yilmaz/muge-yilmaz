@@ -46,12 +46,3 @@ I am a Full-Stack AI Developer with hands-on experience building end-to-end scal
 - **Highlights:** [Live Demo](https://interactive-quote-engine.vercel.app) | [GitHub Repository](https://github.com/muge-yilmaz/Interactive-Quote-Engine)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muge-yilmaz&show_icons=true&theme=transparent&hide_border=true"  alt="Muge's GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muge-yilmaz&layout=compact&theme=transparent&hide_border=true" alt="Most Widely Used Languages" />
-</p>
