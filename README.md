@@ -15,10 +15,6 @@ I am a Full-Stack AI Developer with hands-on experience building end-to-end scal
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,figma" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,jest,git,github,vercel" />
   </a>
 </p>
