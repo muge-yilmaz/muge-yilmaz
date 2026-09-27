@@ -59,7 +59,7 @@ I am passionate about writing type-safe, maintainable code and leveraging AI-ass
 #### 🤖 [AI Career Copilot](https://github.com/muge-yilmaz/ai-career-copilot)
 - **Description:** An AI-powered career optimization system that generates ATS-tailored resumes, analyzes technical skill gaps, and prepares candidate interview strategies.
 - **Key Tech:** Next.js (App Router), TypeScript, Tailwind CSS, Prisma ORM, MongoDB Atlas, Auth0, LLM Integration
-- **Links:** [Live Demo](https://ai-career-copilot-drab.vercel.app/)) | [GitHub Repository](https://github.com/muge-yilmaz/ai-career-copilot)
+- **Links:** [Live Demo](https://ai-career-copilot-drab.vercel.app/) | [GitHub Repository](https://github.com/muge-yilmaz/ai-career-copilot)
 
 ---
 
