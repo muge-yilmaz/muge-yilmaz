@@ -56,21 +56,21 @@ I am passionate about writing type-safe, maintainable code and leveraging AI-ass
 
 ### 🚀 Featured Projects
 
-#### 🤖 [AI Career Copilot](https://github.com/muge-yilmaz/ai-career-copilot)
+#### 🤖 [AI Career Copilot](https://ai-career-copilot-drab.vercel.app/)
 - **Description:** An AI-powered career optimization system that generates ATS-tailored resumes, analyzes technical skill gaps, and prepares candidate interview strategies.
 - **Key Tech:** Next.js (App Router), TypeScript, Tailwind CSS, Prisma ORM, MongoDB Atlas, Auth0, LLM Integration
 - **Links:** [Live Demo](https://ai-career-copilot-drab.vercel.app/) | [GitHub Repository](https://github.com/muge-yilmaz/ai-career-copilot)
 
 ---
 
-#### 🛒 [NXT Store | Modern E-commerce Web Application](https://github.com/muge-yilmaz/NXT-Store-Ecommerce)
+#### 🛒 [NXT Store | Modern E-commerce Web Application](https://nxt-store-ecommerce.vercel.app)
 - **Description:** An end-to-end full-stack e-commerce platform built to handle unified server-side rendering, secure checkout flows, and dynamic database queries.
 - **Key Tech:** Next.js, React, TypeScript, Node.js, Prisma ORM, MongoDB, Auth0, Stripe API, Playwright, Jest
 - **Links:** [Live Demo](https://nxt-store-ecommerce.vercel.app) | [GitHub Repository](https://github.com/muge-yilmaz/NXT-Store-Ecommerce)
 
 ---
 
-#### 💡 [Interactive Quote Engine](https://github.com/muge-yilmaz/Interactive-Quote-Engine)
+#### 💡 [Interactive Quote Engine](https://interactive-quote-engine.vercel.app)
 - **Description:** A dynamic estimation tool leveraging Next.js (App Router) for unified client-server state synchronization, identity management, and type-safe REST APIs.
 - **Key Tech:** React, Next.js, TypeScript, Tailwind CSS, Auth0, MongoDB Atlas, Node.js, REST APIs, WCAG 2.1
 - **Links:** [Live Demo](https://interactive-quote-engine.vercel.app) | [GitHub Repository](https://github.com/muge-yilmaz/Interactive-Quote-Engine)
