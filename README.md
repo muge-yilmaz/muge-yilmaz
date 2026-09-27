@@ -4,8 +4,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Designing+with+empathy;Engineering+with+precision;Merging+seamless+design+with+scalable+engineering;" alt="Typing SVG" /> 
   </a> 
   <br> 
-  <img src="https://komarev.com/ghpvc/?username=muge-yilmaz&label=Profile%20Views&color=38BDF8&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-38BDF8?style=for-the-badge" /> 
+  <img src="https://komarev.com/ghpvc/?username=muge-yilmaz&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+  <a href="https://github.com/muge-yilmaz?tab=repositories">
+    <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  </a>
 </div> 
 
 <br>
@@ -57,7 +59,7 @@ I am passionate about writing type-safe, maintainable code and leveraging AI-ass
 #### 🤖 [AI Career Copilot](https://github.com/muge-yilmaz/ai-career-copilot)
 - **Description:** An AI-powered career optimization system that generates ATS-tailored resumes, analyzes technical skill gaps, and prepares candidate interview strategies.
 - **Key Tech:** Next.js (App Router), TypeScript, Tailwind CSS, Prisma ORM, MongoDB Atlas, Auth0, LLM Integration
-- **Links:** [Live Demo](https://ai-career-copilot.vercel.app) | [GitHub Repository](https://github.com/muge-yilmaz/ai-career-copilot)
+- **Links:** [Live Demo](https://ai-career-copilot-drab.vercel.app/)) | [GitHub Repository](https://github.com/muge-yilmaz/ai-career-copilot)
 
 ---
 
