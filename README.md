@@ -16,6 +16,16 @@ I am a **Full-Stack AI Developer & UI/UX Engineer** with hands-on experience bui
 
 I am passionate about writing type-safe, maintainable code and leveraging AI-assisted workflows to deliver seamless, production-ready digital products.
 
+### 🧠 The Anatomy of My Work
+
+I bridge the gap between aesthetic imagination and scalable logic. When building products, I wear two hats and refuse to compromise on either:
+
+> 🎨 **The Designer's Canvas:** I don't just build interfaces; I sculpt them. I obsess over micro-interactions, intentional white space, and WCAG 2.1 accessibility. If a user has to *think* about how to navigate, I haven't done my job. 
+>
+> ⚙️ **The Engineer's Terminal:** Beautiful design means nothing if the underlying architecture is fragile. I rely on rock-solid, type-safe foundations (TypeScript, Next.js, Prisma) to ensure the backend scales just as elegantly as the frontend flows.
+
+**Core Equation:** `(Empathy + Aesthetics) × Type-Safe Code = Seamless Digital Experiences`
+
 📫 **If you would like to reach out or collaborate, feel free to contact me via the channels below!**
 
 <div align="center"> 
