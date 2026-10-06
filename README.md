@@ -76,6 +76,11 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/isocat-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/isocat.svg" width="100%">
+</picture>
+
 
 ### 🚀 Featured Projects
 
@@ -106,12 +111,6 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
   <!-- Ana İstatistikler ve Seri (Streak) -->
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=muge-yilmaz&theme=ayu-mirage&hide_border=true&background=6991B5&ring=B4EBE9&fire=EB6767&currStreakNum=EFF3EC&sideNums=EFF3EC&currStreakLabel=B4EBE9&sideLabels=B4EBE9&dates=EFF3EC"/>
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=muge-yilmaz&show_icons=true&hide_border=true&bg_color=6991B5&title_color=B4EBE9&text_color=EFF3EC&icon_color=B4EBE9&count_private=true" alt="Stats" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/prsdx/YourTomo">
-    <img src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/isocat.svg" alt="Isometric Contribution City" />
-  </a>
 </div>
 
 <br>
