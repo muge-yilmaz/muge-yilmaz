@@ -74,13 +74,14 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
 - 🤖 **AI Tooling & Workflows:** Cursor, Claude Code, Vercel AI SDK, AI-Assisted Debugging, Prompt Engineering, Agile Workflow.
 - 🧪 **Testing & Deployment:** Jest, React Testing Library, Playwright (E2E), Git/GitHub, Vercel.
 
----
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/isocat-light.svg">
-  <img alt="my github pet" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/isocat.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet.svg" width="100%">
 </picture>
 
+<br>
 
 ### 🚀 Featured Projects
 
@@ -103,6 +104,11 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
 - **Key Tech:** React, Next.js, TypeScript, Tailwind CSS, Auth0, MongoDB Atlas, Node.js, REST APIs, WCAG 2.1
 - **Links:** [Live Demo](https://interactive-quote-engine.vercel.app) | [GitHub Repository](https://github.com/muge-yilmaz/Interactive-Quote-Engine)
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/isocat-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/isocat.svg" width="100%">
+</picture>
 
 
 ### 📊 GitHub Analytics
