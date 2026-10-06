@@ -108,11 +108,11 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=muge-yilmaz&show_icons=true&hide_border=true&bg_color=6991B5&title_color=B4EBE9&text_color=EFF3EC&icon_color=B4EBE9&count_private=true" alt="Stats" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet-light.svg">
-  <img alt="my github pet" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet.svg" width="100%">
-</picture>
+<div align="center">
+  <a href="https://github.com/prsdx/YourTomo">
+    <img src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/isocat.svg" alt="Isometric Contribution City" />
+  </a>
+</div>
 
 <br>
 <div align="center">
