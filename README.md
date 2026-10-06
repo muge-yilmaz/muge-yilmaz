@@ -26,6 +26,8 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
 
 **Core Equation:** `(Empathy + Aesthetics) × Type-Safe Code = Seamless Digital Experiences`
 
+<br>
+
 📫 **If you would like to reach out or collaborate, feel free to contact me via the channels below!**
 
 <div align="center"> 
@@ -40,7 +42,7 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
   </a> 
 </div> 
 
-<br><br>
+<br>
    <!-- Motivasyon Sözü -->
 <div align="center"> 
   <img height="220" src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=6991B5&quoteColor=EFF3EC&authorColor=B4EBE9&symbolColor=B4EBE9&theme=light" alt="Dev Quote" />
