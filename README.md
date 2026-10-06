@@ -96,8 +96,7 @@ I am passionate about writing type-safe, maintainable code and leveraging AI-ass
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=muge-yilmaz&show_icons=true&hide_border=true&bg_color=6991B5&title_color=B4EBE9&text_color=EFF3EC&icon_color=B4EBE9&count_private=true" alt="Stats" />
 </div>
 
-<br><br>
-
+<br>
 <div align="center">
   ⭐ <b>Thank you for visiting my profile! Let's build something extraordinary together 🚀</b>
 </div>
