@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6991B5&section=header&reversal=true&text=Hi+there%2C+I%27m+M%C3%BCge+Y%C4%B1lmaz+%21&textBg=false&fontColor=FFFFFF&fontSize=38&fontAlign=50&fontAlignY=30&animation=fadeIn&rotate=0&strokeWidth=0&desc=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+AI+Developer+%7C+UI%2FUX+Engineer+%7C+%F0%9F%8C%B1Growth-Minded+Engineer&descSize=22&descAlign=50&descAlignY=50" width="100%"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6991B5&section=header&reversal=true&text=Hi+there%2C+I%27m+M%C3%BCge+Y%C4%B1lmaz+%21&textBg=false&fontColor=122C34&fontSize=38&fontAlign=50&fontAlignY=30&animation=fadeIn&rotate=0&strokeWidth=0&desc=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+AI+Developer+%7C+UI%2FUX+Engineer+%7C+%F0%9F%8C%B1Growth-Minded+Engineer&descSize=22&descAlign=50&descAlignY=50" width="100%"/> 
   <br>
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Designing+with+empathy;Engineering+with+precision;Merging+seamless+design+with+scalable+engineering;" alt="Typing SVG" /> 
   </a> 
   <br>
-  <img src="https://komarev.com/ghpvc/?username=muge-yilmaz&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=muge-yilmaz&label=Profile%20Views&color=6991B5&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/muge-yilmaz?tab=repositories">
-    <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-6991B5?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
   </a>
 </div> 
 <br>
