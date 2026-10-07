@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6991B5&section=header&reversal=true&text=Hi+there%2C+I%27m+M%C3%BCge+Y%C4%B1lmaz+%21&textBg=false&fontColor=EFF3EC&fontSize=38&fontAlign=50&fontAlignY=30&animation=fadeIn&rotate=0&strokeWidth=0&desc=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+AI+Developer+%7C+UI%2FUX+Engineer+%7C+%F0%9F%8C%B1Growth-Minded+Engineer&descSize=22&descAlign=50&descAlignY=50" width="100%"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6991B5&section=header&reversal=true&text=Hi+there%2C+I%27m+M%C3%BCge+Y%C4%B1lmaz+%21&textBg=false&fontColor=FFFFFF&fontSize=38&fontAlign=50&fontAlignY=30&animation=fadeIn&rotate=0&strokeWidth=0&desc=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+AI+Developer+%7C+UI%2FUX+Engineer+%7C+%F0%9F%8C%B1Growth-Minded+Engineer&descSize=22&descAlign=50&descAlignY=50" width="100%"/> 
   <br>
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Designing+with+empathy;Engineering+with+precision;Merging+seamless+design+with+scalable+engineering;" alt="Typing SVG" /> 
@@ -117,6 +117,11 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
   <!-- Ana İstatistikler ve Seri (Streak) -->
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=muge-yilmaz&theme=ayu-mirage&hide_border=true&background=6991B5&ring=B4EBE9&fire=EB6767&currStreakNum=EFF3EC&sideNums=EFF3EC&currStreakLabel=B4EBE9&sideLabels=B4EBE9&dates=EFF3EC"/>
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=muge-yilmaz&show_icons=true&hide_border=true&bg_color=6991B5&title_color=B4EBE9&text_color=EFF3EC&icon_color=B4EBE9&count_private=true" alt="Stats" />
+
+<br><br>
+  <p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=muge-yilmaz&bg_color=00000000&color=6991B5&line=6991B5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 </div>
 
 <br>
