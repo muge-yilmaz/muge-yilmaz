@@ -53,7 +53,7 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
 
 <div align="center">
   <!-- Sağ tarafa yaslanmış büyük Diller Grafiği -->
-  <img align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muge-yilmaz&layout=donut-vertical&hide_border=true&locale=en&bg_color=6991B5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="Most Used Languages" />
+  <img align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muge-yilmaz&layout=donut-vertical&hide_border=true&locale=en&bg_color=6991B5&title_color=EFF3EC&text_color=EFF3EC&icon_color=EFF3EC" alt="Most Used Languages" />
 
   <!-- İkişer satıra bölünmüş yetenek ikonları (perline parametresi eklendi) -->
   <b>Frontend & UI/UX</b>
