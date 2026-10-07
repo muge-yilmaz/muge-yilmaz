@@ -16,3 +16,7 @@ jobs:
         with:
           username: muge-yilmaz
           timezone-offset-minutes: "180"
+          pet-name: "Pixel"
+          accent-color: "38BDF8"
+          display-name: "Müge"
+          contact-line: "mugeyilmaz.web@gmail.com"
