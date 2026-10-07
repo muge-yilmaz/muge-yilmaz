@@ -16,3 +16,5 @@ jobs:
         with:
           username: muge-yilmaz
           timezone-offset-minutes: "180"
+          pet-name: "Pixel"
+          bg_color: #38BDF8
