@@ -47,6 +47,13 @@ When it comes to building digital products, I wear two hats—**Full-Stack AI De
   <img height="220" src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=6991B5&quoteColor=EFF3EC&authorColor=B4EBE9&symbolColor=B4EBE9&theme=light" alt="Dev Quote" />
 </div> 
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet-light.svg">
+    <img alt="pixel" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet.svg" width="100%">
+  </picture>
+</div>
+
 ---
 ### 🛠 Tech Stack & Most Used Languages
 
@@ -74,20 +81,7 @@ When it comes to building digital products, I wear two hats—**Full-Stack AI De
   <img src="https://github.com/upstash.png?size=48" width="48" height="48" alt="Upstash" style="border-radius: 12px; margin-bottom: 2px;" />
 </div>
 <br clear="both">
-<br>
 
-- 🎨 **Frontend Development:** JavaScript (ES6+), TypeScript, React.js, Next.js (App Router, Server Actions, SSR), HTML5, CSS3, Tailwind CSS.
-- ⚙️ **Backend & Integrations:** Node.js, Express.js, MongoDB Atlas, Prisma ORM, RESTful APIs, CRUD Operations, Auth0, Stripe.
-- 📐 **UI/UX & Accessibility:** Figma, Web Accessibility (WCAG 2.1), Responsive Design, Design Systems.
-- 🤖 **AI Tooling & Workflows:** Cursor, Claude Code, Vercel AI SDK, AI-Assisted Debugging, Prompt Engineering, Agile Workflow.
-- 🧪 **Testing & Deployment:** GitHub Actions, CI/CD Pipelines, Jest, React Testing Library, Playwright (E2E), Git/GitHub, Vercel.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet-light.svg">
-    <img alt="pixel" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet.svg" width="100%">
-  </picture>
-</div>
 
 ### 🚀 Featured Projects
 
