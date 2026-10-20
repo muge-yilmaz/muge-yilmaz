@@ -46,7 +46,7 @@ When it comes to building digital products, I wear two hats—**Full-Stack AI De
 <div align="center"> 
   <img height="220" src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=6991B5&quoteColor=EFF3EC&authorColor=B4EBE9&symbolColor=B4EBE9&theme=light" alt="Dev Quote" />
 </div> 
-
+<br>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet-light.svg">
