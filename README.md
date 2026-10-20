@@ -24,7 +24,7 @@ When it comes to building digital products, I wear two hats—**Full-Stack AI De
 **Core Equation:** `(Empathy + Aesthetics) × Type-Safe Code = Seamless Digital Experiences`
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working as:** Web Development Intern at a Norway-based B2B SaaS startup (Pick Your Pour), bridging the gap between UI/UX design, Next.js full-stack architecture, and real-time **Firebase** integrations.
+- 🔭 **Currently working as:** Web Development Intern at a Norway-based B2B SaaS startup, bridging the gap between UI/UX design, Next.js full-stack architecture, and real-time **Firebase** integrations.
 - 🌱 **Currently learning:** Advanced Prompt Engineering techniques and deeper architectural patterns in Next.js (App Router).
 - 💬 **Ask me about:** React state management, Figma-to-code workflows, AI integration, WCAG accessibility, and CI/CD pipelines.
 
