@@ -83,7 +83,7 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet-light.svg">
-    <img alt="my github pet" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet.svg" width="100%">
+    <img alt="pixel" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet.svg" width="100%">
   </picture>
 </div>
 
@@ -107,13 +107,13 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
 - **Description:** A dynamic estimation tool leveraging Next.js (App Router) for unified client-server state synchronization, identity management, and type-safe REST APIs.
 - **Key Tech:** React, Next.js, TypeScript, Tailwind CSS, Auth0, MongoDB Atlas, Node.js, REST APIs, WCAG 2.1
 - **Links:** [Live Demo](https://interactive-quote-engine.vercel.app) | [GitHub Repository](https://github.com/muge-yilmaz/Interactive-Quote-Engine)
-<br>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/isocat-light.svg">
-  <img alt="my github pet" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/isocat.svg" width="100%">
-</picture>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/isocat-light.svg">
+    <img alt="pixel" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/isocat.svg" width="100%" style="margin-top: -40px; margin-bottom: 20px;"">
+  </picture>
+</div>
 
 ### 📊 GitHub Analytics
 
