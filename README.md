@@ -5,10 +5,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Designing+with+empathy;Engineering+with+precision;Merging+seamless+design+with+scalable+engineering;" alt="Typing SVG" /> 
   </a> 
   <br>
-  <img src="https://komarev.com/ghpvc/?username=muge-yilmaz&label=Profile%20Views&color=6991B5&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/muge-yilmaz?tab=repositories">
-    <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-6991B5?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  </a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=muge-yilmaz.muge-yilmaz&label=Profile%20Views&countColor=%236991B5&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/muge-yilmaz?tab=repositories">
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-6991B5?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+</a>
 </div> 
 <br>
 
