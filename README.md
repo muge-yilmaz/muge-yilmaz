@@ -78,16 +78,14 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
 - ⚙️ **Backend & Integrations:** Node.js, Express.js, MongoDB Atlas, Prisma ORM, RESTful APIs, CRUD Operations, Auth0, Stripe.
 - 📐 **UI/UX & Accessibility:** Figma, Web Accessibility (WCAG 2.1), Responsive Design, Design Systems.
 - 🤖 **AI Tooling & Workflows:** Cursor, Claude Code, Vercel AI SDK, AI-Assisted Debugging, Prompt Engineering, Agile Workflow.
-- 🧪 **Testing & Deployment:** Jest, React Testing Library, Playwright (E2E), Git/GitHub, Vercel.
+- 🧪 **Testing & Deployment:** GitHub Actions, CI/CD Pipelines, Jest, React Testing Library, Playwright (E2E), Git/GitHub, Vercel.
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet-light.svg">
-  <img alt="my github pet" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet.svg" width="100%">
-</picture>
-
-<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet-light.svg">
+    <img alt="my github pet" src="https://raw.githubusercontent.com/muge-yilmaz/muge-yilmaz/main/dist/pet.svg" width="100%">
+  </picture>
+</div>
 
 ### 🚀 Featured Projects
 
