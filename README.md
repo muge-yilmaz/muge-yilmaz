@@ -12,19 +12,21 @@
 </div> 
 <br>
 
-I am a **Full-Stack AI Developer & UI/UX Engineer** with hands-on experience building end-to-end scalable architectures using React, Next.js, TypeScript, Node.js, Prisma ORM, and MongoDB Atlas. With a strong foundation in UI/UX design principles and WCAG 2.1 web accessibility, I bridge the gap between aesthetic, user-centric interfaces and robust, secure backend systems.
+### 💡 My Engineering Philosophy
+> *"I believe the best software lives at the intersection of **human-centric design** and **smart architecture**."*
 
-I am passionate about writing type-safe, maintainable code and leveraging AI-assisted workflows to deliver seamless, production-ready digital products.
+When it comes to building digital products, I wear two hats—**Full-Stack AI Developer** and **UI/UX Engineer**—and refuse to compromise on either:
 
-### 🧠 The Anatomy of My Work
-
-I bridge the gap between aesthetic imagination and scalable logic. When building products, I wear two hats and refuse to compromise on either:
-
-> 🎨 **The Designer's Canvas:** I don't just build interfaces; I sculpt them. I obsess over micro-interactions, intentional white space, and WCAG 2.1 accessibility. If a user has to *think* about how to navigate, I haven't done my job. 
->
-> ⚙️ **The Engineer's Terminal:** Beautiful design means nothing if the underlying architecture is fragile. I rely on rock-solid, type-safe foundations (TypeScript, Next.js, Prisma) to ensure the backend scales just as elegantly as the frontend flows.
+1. 🎨 **The Designer's Canvas (UI/UX & Accessibility):** I don't just build interfaces; I sculpt them. I am passionate about translating complex Figma mockups into pixel-perfect, responsive interfaces (WCAG 2.1) where no user is left behind. Clean semantic HTML and intentional user experiences are my top priorities.
+2. 🤖 **AI-Powered Ecosystems & Workflows:** I go beyond traditional CRUD apps. I utilize the **Vercel AI SDK** and **Google Gemini** to integrate intelligent, streaming AI capabilities into the modern web. Furthermore, I actively leverage AI-assisted engineering tools like **Cursor** and **Claude Code** to accelerate my development lifecycle and iterate rapidly.
+3. ⚙️ **The Engineer's Terminal (Architecture & CI/CD):** Beautiful design means nothing if the underlying architecture is fragile. I rely on rock-solid Next.js foundations, automated testing (Jest, Playwright), and robust **CI/CD** pipelines via **GitHub Actions** to ensure seamless, production-ready deployments.
 
 **Core Equation:** `(Empathy + Aesthetics) × Type-Safe Code = Seamless Digital Experiences`
+
+### 🚀 What I'm Up To
+- 🔭 **Currently working as:** Web Development Intern at a Norway-based B2B SaaS startup (Pick Your Pour), bridging the gap between UI/UX design, Next.js full-stack architecture, and real-time **Firebase** integrations.
+- 🌱 **Currently learning:** Advanced Prompt Engineering techniques and deeper architectural patterns in Next.js (App Router).
+- 💬 **Ask me about:** React state management, Figma-to-code workflows, AI integration, WCAG accessibility, and CI/CD pipelines.
 
 <br>
 
