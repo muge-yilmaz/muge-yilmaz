@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=6991B5&section=header&reversal=true&text=Hi+there%2C+I%27m+M%C3%BCge+Y%C4%B1lmaz+%21&textBg=false&fontColor=122C34&fontSize=38&fontAlign=50&fontAlignY=30&animation=fadeIn&rotate=0&strokeWidth=0&desc=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+AI+Developer+%7C+UI%2FUX+Engineer+%7C+%F0%9F%8C%B1Growth-Minded+Engineer&descSize=22&descAlign=50&descAlignY=52" width="100%"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=6991B5&section=header&reversal=true&text=Hi+there%2C+I%27m+M%C3%BCge+Y%C4%B1lmaz+%21&textBg=false&fontColor=122C34&fontSize=38&fontAlign=50&fontAlignY=30&animation=fadeIn&rotate=0&stroke=122C34&strokeWidth=0&desc=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+AI+Developer+%7C+UI%2FUX+Engineer+%7C+%F0%9F%8C%B1Growth-Minded+Engineer&descSize=22&descAlign=50&descAlignY=52" width="100%"/> 
   <div align="center">
     <a href="https://git.io/typing-svg"> 
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Designing+with+empathy;Engineering+with+precision;Merging+seamless+design+with+scalable+engineering;" alt="Typing SVG" style="margin-top: -180px;" /> 
