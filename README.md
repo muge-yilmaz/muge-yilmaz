@@ -60,7 +60,7 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
   <!-- 2. Satır: Kalan 6 ikon + Shadcn UI tam yanlarında -->
   <img src="https://skillicons.dev/icons?i=regex,vscode,figma,materialui&theme=dark" alt="Frontend Row 2" /> &nbsp;
   <img src="https://github.com/shadcn-ui.png?size=48" width="48" height="48" alt="Shadcn UI" style="border-radius: 12px; margin-bottom: 2px;" />
-  <br><br>
+  <br><br><br>
   
   <!-- Backend, DB & Testing İkonları -->
   <b>Backend, DB & Testing</b><br>
