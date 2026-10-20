@@ -121,18 +121,13 @@ I bridge the gap between aesthetic imagination and scalable logic. When building
   <!-- Ana İstatistikler ve Seri (Streak) -->
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=muge-yilmaz&theme=ayu-mirage&hide_border=true&background=6991B5&ring=B4EBE9&fire=8E4162&currStreakNum=EFF3EC&sideNums=EFF3EC&currStreakLabel=B4EBE9&sideLabels=B4EBE9&dates=EFF3EC"/>
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=muge-yilmaz&show_icons=true&hide_border=true&bg_color=6991B5&title_color=B4EBE9&text_color=EFF3EC&icon_color=B4EBE9&count_private=true" alt="Stats" />
-
-<br><br>
-  <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=muge-yilmaz&bg_color=00000000&color=6991B5&line=6991B5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
 </div>
+  <br>
 
-<br>
-<div align="center">
-  ⭐ <b>Thank you for visiting my profile! Let's build something extraordinary together 🚀</b>
+  <div align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=muge-yilmaz&bg_color=00000000&color=6991B5&line=6991B5&point=c9d1d9&area=true&hide_border=true" alt="activity graph"/>
 </div>
-
+    <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6991B5&customColorList=6,11,20&height=150&section=footer" width="100%" alt="Footer Capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6991B5&customColorList=6,11,20&height=180&section=footer&desc=Thank+you+for+visiting+my+profile!+Let's+build+something+extraordinary+together+%F0%9F%9A%80&textBg=false&fontColor=122C34&descSize=16&descAlign=50&descAlignY=70" width="100%" alt="Footer Capsule" style="margin-top: -85px;" />
 </div>
