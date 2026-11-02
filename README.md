@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=6991B5&section=header&reversal=true&text=Hi+there%2C+I%27m+M%C3%BCge+Y%C4%B1lmaz+%21&textBg=false&fontColor=122C34&fontSize=38&fontAlign=50&fontAlignY=30&animation=fadeIn&rotate=0&stroke=122C34&strokeWidth=0&desc=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+AI+Developer+%7C+UI%2FUX+Engineer+%7C+%F0%9F%8C%B1Growth-Minded+Engineer&descSize=22&descAlign=50&descAlignY=52" width="100%"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=6991B5&section=header&reversal=true&text=Hi+there%2C+I%27m+M%C3%BCge+Y%C4%B1lmaz+%21&textBg=false&fontColor=122C34&fontSize=38&fontAlign=50&fontAlignY=30&animation=fadeIn&rotate=0&stroke=122C34&strokeWidth=0&desc=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+AI+Developer+%7C+🎨UI%2FUX+Engineer+%7C+%F0%9F%8C%B1Growth-Minded&descSize=22&descAlign=50&descAlignY=52" width="100%"/> 
   <div align="center">
     <a href="https://git.io/typing-svg"> 
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Designing+with+empathy;Engineering+with+precision;Merging+seamless+design+with+scalable+engineering;" alt="Typing SVG" style="margin-top: -180px;" /> 
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Designing+with+empathy;Building+accessible+UIs;Testing+edge+cases;Learning+and+growing+every+day;"" alt="Typing SVG" style="margin-top: -180px;" /> 
     </a> 
   </div>
   <img src="https://api.visitorbadge.io/api/visitors?path=muge-yilmaz.muge-yilmaz&label=Profile%20Views&countColor=%236991B5&style=for-the-badge" alt="Profile Views" />
@@ -12,23 +12,28 @@
 </div> 
 <br>
 
-### 💡 My Engineering Philosophy
-> *"I believe the best software lives at the intersection of **human-centric design** and **smart architecture**."*
 
-When it comes to building digital products, I wear two hats—**Full-Stack AI Developer** and **UI/UX Engineer**—and refuse to compromise on either:
+### 💡 My Developer Journey
+> *"I believe the best software lives at the intersection of **human-centric design** and **strict engineering precision**."*
 
-1. 🎨 **The Designer's Canvas (UI/UX & Accessibility):** I don't just build interfaces; I sculpt them. I am passionate about translating complex Figma mockups into pixel-perfect, responsive interfaces (WCAG 2.1) where no user is left behind. Clean semantic HTML and intentional user experiences are my top priorities.
-2. 🤖 **AI-Powered Ecosystems & Workflows:** I go beyond traditional CRUD apps. I utilize the **Vercel AI SDK** and **Google Gemini** to integrate intelligent, streaming AI capabilities into the modern web. Furthermore, I actively leverage AI-assisted engineering tools like **Cursor** and **Claude Code** to accelerate my development lifecycle and iterate rapidly.
-3. ⚙️ **The Engineer's Terminal (Architecture & CI/CD):** Beautiful design means nothing if the underlying architecture is fragile. I rely on rock-solid Next.js foundations, automated testing (Jest, Playwright), and robust **CI/CD** pipelines via **GitHub Actions** to ensure seamless, production-ready deployments.
+I bring a unique blend of UI/UX empathy and robust technical discipline to Full-Stack Development. I don't just write code to make things work; I build interfaces that feel natural and a strict testing and compliance mindset:
 
-**Core Equation:** `(Empathy + Aesthetics) × Type-Safe Code = Seamless Digital Experiences`
+
+1. 🎨 **UI/UX & Accessibility:** I don't just build interfaces; I focus on the entire user journey. I am passionate about translating Figma designs into responsive, clean interfaces using React, Tailwind CSS, and Shadcn UI. Coming from an SEO background, I care a lot about writing clean, semantic HTML and ensuring strict web accessibility (WCAG 2.1) are my top priorities.
+2. 🤖 **AI-Powered Ecosystems:** I actively integrate modern AI tools into web applications. Using the **Vercel AI SDK** and **Google Gemini**, I build real-time streaming experiences. I also leverage AI-assisted tools like **Cursor** and **Claude Code** to iterate rapidly and learn efficiently.
+3. ⚙️ **The QA Mindset (Testing & CI/CD):** Thanks to my QA background, testing isn't an afterthought for me. I try to think about edge cases early and write end-to-end tests using **Jest** and **Playwright**, and automated **CI/CD** pipelines via GitHub Actions to catch bugs before they reach production.
+
+
+**Core Equation:** `(Empathy + Aesthetics) × Type-Safe Code = Reliable Digital Experiences`
+
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working as:** Web Development Intern at a Norway-based B2B SaaS startup, bridging the gap between UI/UX design, Next.js full-stack architecture, and real-time **Firebase** integrations.
-- 🌱 **Currently learning:** Advanced Prompt Engineering techniques and deeper architectural patterns in Next.js (App Router).
-- 💬 **Ask me about:** React state management, Figma-to-code workflows, AI integration, WCAG accessibility, and CI/CD pipelines.
+- 🔭 **Currently working as:** Full-Stack Development Intern at a Norway-based B2B SaaS startup, building full-stack features with Next.js, Tailwind, and **Firebase** integrations.
+- 🌱 **Currently learning:** WebSockets for real-time collaboration (integrating live chat into my AI Copilot project), advanced layout animations for better UX and diving deeper into Next.js App Router patterns.
+- 💬 **Ask me about:** Transitioning into tech, Figma-to-code workflows, React state, Vercel AI SDK streaming, and E2E testing with Playwright.
 
 <br>
+
 
 📫 **If you would like to reach out or collaborate, feel free to contact me via the channels below!**
 
@@ -87,22 +92,24 @@ When it comes to building digital products, I wear two hats—**Full-Stack AI De
 
 #### 🤖 [AI Career Copilot](https://ai-career-copilot-drab.vercel.app/)
 - **Description:** An AI-powered career optimization system that generates ATS-tailored resumes, analyzes technical skill gaps, and prepares candidate interview strategies.
-- **Key Tech:** Next.js (App Router), TypeScript, Tailwind CSS, Prisma ORM, MongoDB Atlas, Auth0, LLM Integration
+- **Key Tech:** Next.js (App Router), TypeScript, Tailwind CSS, Prisma ORM, MongoDB Atlas, Auth0, Vercel AI SDK, Google Gemini, Upstash
 - **Links:** [Live Demo](https://ai-career-copilot-drab.vercel.app/) | [GitHub Repository](https://github.com/muge-yilmaz/ai-career-copilot)
 
 ---
 
 #### 🛒 [NXT Store | Modern E-commerce Web Application](https://nxt-store-ecommerce.vercel.app)
 - **Description:** An end-to-end full-stack e-commerce platform built to handle unified server-side rendering, secure checkout flows, and dynamic database queries.
-- **Key Tech:** Next.js, React, TypeScript, Node.js, Prisma ORM, MongoDB, Auth0, Stripe API, Playwright, Jest
+- **Key Tech:** Next.js, React, TypeScript, Node.js, Prisma ORM, MongoDB, Auth0, Stripe API, Playwright, Jest, GitHub Actions
 - **Links:** [Live Demo](https://nxt-store-ecommerce.vercel.app) | [GitHub Repository](https://github.com/muge-yilmaz/NXT-Store-Ecommerce)
 
 ---
 
 #### 💡 [Interactive Quote Engine](https://interactive-quote-engine.vercel.app)
-- **Description:** A dynamic estimation tool leveraging Next.js (App Router) for unified client-server state synchronization, identity management, and type-safe REST APIs.
+- **Description:** A dynamic estimation tool leveraging Next.js for client-server state synchronization, identity management, and REST APIs.
 - **Key Tech:** React, Next.js, TypeScript, Tailwind CSS, Auth0, MongoDB Atlas, Node.js, REST APIs, WCAG 2.1
 - **Links:** [Live Demo](https://interactive-quote-engine.vercel.app) | [GitHub Repository](https://github.com/muge-yilmaz/Interactive-Quote-Engine)
+
+---
 
 <div align="center">
   <picture>
