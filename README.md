@@ -47,7 +47,7 @@ I bring a unique blend of UI/UX empathy and robust technical discipline to Full-
 </div> 
 
 <br>
-   <!-- Motivasyon Sözü -->
+   <!-- Motivational Quotes -->
 <div align="center"> 
   <img height="220" src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=6991B5&quoteColor=EFF3EC&authorColor=B4EBE9&symbolColor=B4EBE9&theme=light" alt="Dev Quote" />
 </div> 
@@ -60,6 +60,7 @@ I bring a unique blend of UI/UX empathy and robust technical discipline to Full-
 </div>
 
 ---
+
 ### 🛠 Tech Stack
 
 <table align="center" width="100%">
@@ -79,6 +80,8 @@ I bring a unique blend of UI/UX empathy and robust technical discipline to Full-
   </tr>
 </table>
 <br>
+
+---
 
 ### 🚀 Featured Projects
 
@@ -113,7 +116,7 @@ I bring a unique blend of UI/UX empathy and robust technical discipline to Full-
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Ana İstatistikler ve Seri (Streak) -->
+  <!-- Key Statistics and Streak -->
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=muge-yilmaz&theme=ayu-mirage&hide_border=true&background=6991B5&ring=B4EBE9&fire=8E4162&currStreakNum=EFF3EC&sideNums=EFF3EC&currStreakLabel=B4EBE9&sideLabels=B4EBE9&dates=EFF3EC"/>
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=muge-yilmaz&show_icons=true&hide_border=true&bg_color=6991B5&title_color=B4EBE9&text_color=EFF3EC&icon_color=B4EBE9&count_private=true" alt="Stats" />
 </div>
