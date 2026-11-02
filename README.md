@@ -60,33 +60,25 @@ I bring a unique blend of UI/UX empathy and robust technical discipline to Full-
 </div>
 
 ---
-### 🛠 Tech Stack & Most Used Languages
+### 🛠 Tech Stack
 
-<div align="left">
-  <!-- Sağ tarafa yaslanmış büyük Diller Grafiği -->
-  <img align="right" height="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=muge-yilmaz&layout=donut-vertical&hide_border=true&locale=en&bg_color=6991B5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&v=1" alt="Most Used Languages" />
-
-  <!-- Frontend & UI/UX İkonları -->
-  <b>Frontend & UI/UX</b><br>
-  <!-- 1. Satır: Sadece ilk 7 ikon -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" alt="Frontend Row 1" />
-  <br>
-  <!-- 2. Satır: Kalan 6 ikon + Shadcn UI tam yanlarında -->
-  <img src="https://skillicons.dev/icons?i=regex,vscode,figma,materialui&theme=dark" alt="Frontend Row 2" /> &nbsp;
-  <img src="https://github.com/shadcn-ui.png?size=48" width="48" height="48" alt="Shadcn UI" style="border-radius: 12px; margin-bottom: 2px;" />
-  <br><br><br>
-  
-  <!-- Backend, DB & Testing İkonları -->
-  <b>Backend, DB & Testing</b><br>
-  <!-- 1. Satır: İlk 5 ikon -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,jest&theme=dark" alt="Backend Row 1" />
-  <br>
-  <!-- 2. Satır: Kalan 5 ikon + Upstash tam yanlarında -->
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,firebase&theme=dark" alt="Backend Row 2" /> &nbsp;
-  <img src="https://github.com/upstash.png?size=48" width="48" height="48" alt="Upstash" style="border-radius: 12px; margin-bottom: 2px;" />
-</div>
-<br clear="both">
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <b>Frontend & UI/UX</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" alt="Frontend Row 1" /><br><br>
+      <img src="https://skillicons.dev/icons?i=regex,vscode,figma,materialui&theme=dark" alt="Frontend Row 2" /> &nbsp;
+      <img src="https://github.com/shadcn-ui.png?size=48" width="48" height="48" alt="Shadcn UI" style="border-radius: 12px;" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <b>Backend, DB & Testing</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,jest&theme=dark" alt="Backend Row 1" /><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,firebase&theme=dark" alt="Backend Row 2" /> &nbsp;
+      <img src="https://github.com/upstash.png?size=48" width="48" height="48" alt="Upstash" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
+<br>
 
 ### 🚀 Featured Projects
 
