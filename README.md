@@ -64,7 +64,7 @@ I bring a unique blend of UI/UX empathy and robust technical discipline to Full-
 
 <div align="left">
   <!-- Sağ tarafa yaslanmış büyük Diller Grafiği -->
-  <img align="right" height="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=muge-yilmaz&layout=donut-vertical&hide_border=true&locale=en&bg_color=6991B5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="Most Used Languages" />
+  <img align="right" height="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=muge-yilmaz&layout=donut-vertical&hide_border=true&locale=en&bg_color=6991B5&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&v=1" alt="Most Used Languages" />
 
   <!-- Frontend & UI/UX İkonları -->
   <b>Frontend & UI/UX</b><br>
