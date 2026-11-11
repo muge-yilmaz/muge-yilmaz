@@ -118,7 +118,7 @@ I bring a unique blend of UI/UX empathy and robust technical discipline to Full-
 <div align="center">
   <!-- Key Statistics and Streak -->
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=muge-yilmaz&theme=ayu-mirage&hide_border=true&background=6991B5&ring=B4EBE9&fire=8E4162&currStreakNum=EFF3EC&sideNums=EFF3EC&currStreakLabel=B4EBE9&sideLabels=B4EBE9&dates=EFF3EC"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=muge-yilmaz&show_icons=true&hide_border=true&bg_color=6991B5&title_color=B4EBE9&text_color=EFF3EC&icon_color=B4EBE9&count_private=true" alt="Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=muge-yilmaz&show_icons=true&hide_border=true&bg_color=6991B5&title_color=B4EBE9&text_color=EFF3EC&icon_color=B4EBE9&v=1" alt="Stats" />
 </div>
   <br>
 
